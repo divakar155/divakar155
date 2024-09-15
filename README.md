@@ -1,4 +1,4 @@
-
+![logo](https://github.com/divakar155/divakar155/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Divakar Shrivastava</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
